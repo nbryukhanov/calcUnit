@@ -12,12 +12,12 @@ public class BadCalculator {
     public int substract(int a, int b){
         return a - b;
     }
-    /** деление  */
+    /** Деление  */
     public double div(int a, int b) {
         shi = a/b;
         return shi;
     }
-    /** умножение */
+    /** Умножение */
     public double mult(float a, float b) {
         shi = a*b;
         return shi;

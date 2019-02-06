@@ -89,7 +89,7 @@ public class BadCalculatorTest {
         Assert.assertEquals(10.0, calc.div(-50,-5));
     }
 
-    /** умножение */
+    /** Умножение */
     @Test
     private void testMult(){
         Assert.assertEquals(10.5, calc.mult(5.25f, 2f));
